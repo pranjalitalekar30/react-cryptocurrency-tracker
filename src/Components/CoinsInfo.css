@@ -1,0 +1,21 @@
+.coin-info{
+    margin: 20px 0 30px 0;
+}
+.coin-title{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.coin-logo{
+    margin-right: 14px;
+}
+.coin-name{
+    font-size: 2rem;
+    margin: 10px 0 0 5px;
+}
+.coin-desc{
+    text-align: justify;
+}
+.coin-info a{
+    text-decoration: none;
+}

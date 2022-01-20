@@ -1,0 +1,13 @@
+.coin img{
+    height: 30px;
+    width: 30px;
+}
+.coin h2{
+    font-size: 16px;
+}
+.coin-container table tbody{
+    cursor: pointer;
+}
+.coin-container table tbody tr:hover td{
+    background-color: #1e2127 !important;
+}
